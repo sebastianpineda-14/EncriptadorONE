@@ -1,4 +1,4 @@
-# EncriptadorONE
+# EncriptadorONE!!
 
 ![image](https://github.com/user-attachments/assets/37d2bc3f-16c5-40a2-a630-fdf105ec92f6)
 
@@ -17,7 +17,9 @@ La letra "i" se transforma en "imes"
 La letra "a" se transforma en "ai"
 La letra "o" se transforma en "ober"
 La letra "u" se transforma en "ufat"
-🔨 Funcionalidades
+
+🔨 Funcionalidades:
+
 Funcionalidad 1: La aplicación debe operar exclusivamente con letras en minúsculas.
 Funcionalidad 2: Se prohíbe el uso de letras acentuadas y caracteres especiales.
 Funcionalidad 3: Es esencial que la aplicación pueda encriptar una palabra y también revertirla a su estado original. Por ejemplo, "gato" se convierte en "gaitober" y viceversa.
@@ -27,13 +29,15 @@ Funcionalidad 5: Los resultados deben mostrarse en la pantalla.
 
 Extra: Incorporar un botón que permita copiar el texto cifrado o descifrado al portapapeles, replicando la funcionalidad de las teclas Ctrl + C o la opción "Copiar" de los menús de aplicaciones.
 
-Inicio 🚀
+Inicio 🚀:
+
 Estas instrucciones te facilitarán el acceso o la obtención de una versión funcional del proyecto para su uso y prueba en tu entorno local.
 
-Pre-requisitos 📋
+Pre-requisitos 📋:
+
 No es necesario descargar software especial para probar el Encriptador de Texto, basta con utilizar el navegador web de tu elección.
 
-Para probarlo directamente, accede a:
+Para probarlo directamente, accede a: https://sebastianpineda-14.github.io/EncriptadorONE/
 
 Encriptador de Texto
 
