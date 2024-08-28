@@ -51,4 +51,5 @@ Construcción 🛠️
 Para el desarrollo del proyecto, se utilizaron las siguientes herramientas:
 
 Trello: Herramienta para la gestión de proyectos.
+
 Visual Studio Code: Editor de código fuente creado por Microsoft, disponible para Windows, Linux, macOS y Web.
