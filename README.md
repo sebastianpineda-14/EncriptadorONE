@@ -1,6 +1,6 @@
 # EncriptadorONE!!
+![image](https://github.com/user-attachments/assets/ea161a84-cf74-4f38-9a92-2bed4dfe0c58)
 
-![image](https://github.com/user-attachments/assets/1d4fc940-6314-4a38-8261-36c6d688d393)
 
 [https://github.com/sebastianpineda-14/EncriptadorONE](https://sebastianpineda-14.github.io/EncriptadorONE/)
 
