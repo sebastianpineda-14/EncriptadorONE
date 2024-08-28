@@ -28,10 +28,14 @@ La letra "u" se transforma en "ufat"
 🔨 Funcionalidades:
 
 Funcionalidad 1: La aplicación debe operar exclusivamente con letras en minúsculas.
+
 Funcionalidad 2: Se prohíbe el uso de letras acentuadas y caracteres especiales.
+
 Funcionalidad 3: Es esencial que la aplicación pueda encriptar una palabra y también revertirla a su estado original. Por ejemplo, "gato" se convierte en "gaitober" y viceversa.
 
+
 Funcionalidad 4: El sitio web debe incluir espacios para que el usuario introduzca el texto a cifrar o descifrar, con la opción de seleccionar entre ambas funciones.
+
 Funcionalidad 5: Los resultados deben mostrarse en la pantalla.
 
 Extra: Incorporar un botón que permita copiar el texto cifrado o descifrado al portapapeles, replicando la funcionalidad de las teclas Ctrl + C o la opción "Copiar" de los menús de aplicaciones.
