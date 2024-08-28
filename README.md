@@ -14,10 +14,15 @@ Requisitos
 Se emplearán las siguientes claves de cifrado:
 
 La letra "e" se transforma en "enter"
+
 La letra "i" se transforma en "imes"
+
 La letra "a" se transforma en "ai"
+
 La letra "o" se transforma en "ober"
+
 La letra "u" se transforma en "ufat"
+
 
 🔨 Funcionalidades:
 
